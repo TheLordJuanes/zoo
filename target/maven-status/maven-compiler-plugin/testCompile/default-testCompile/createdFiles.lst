@@ -1,0 +1,9 @@
+co/edu/icesi/zoo/service/TatabroServiceTest.class
+co/edu/icesi/zoo/integration/ZooCreateTatabroIntegrationTest.class
+co/edu/icesi/zoo/integration/ZooGetTatabroByIDIntegrationTest.class
+co/edu/icesi/zoo/integration/ZooGetTatabrosIntegrationTest.class
+co/edu/icesi/zoo/controller/TatabroControllerTest.class
+co/edu/icesi/zoo/repository/TatabroRepositoryTest.class
+co/edu/icesi/zoo/ZooApplicationTests.class
+co/edu/icesi/zoo/integration/config/InitialDataConfig.class
+co/edu/icesi/zoo/integration/ZooGetTatabroByNameIntegrationTest.class
